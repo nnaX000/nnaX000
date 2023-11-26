@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 전 22살 AI전공 대학생 김나영입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 항상 더 나은 내일을 준비하며 성장하려 하는 개발자입니다.</li><li> 음... </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>백앤드 개발자</li><li>저는 항상 더 나은 내일을 준비하며 성장하려 하는 개발자<li>원하는 목표를 이루기 위해 하루하루 열심히 나아가는 개발자</li></div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
