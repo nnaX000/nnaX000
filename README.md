@@ -30,4 +30,4 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnaX000&layout=compact&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
