@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5dbdb,100:ebdbdb&height=180&text=Hello%20na0%20world%20!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5dbdb,100:ebdbdb&height=180&text=Hello%20na0%20world%20!&animation=fadeIn&fontColor=ffffff&fontSize=50" width="100%" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 전 22살 AI전공 대학생 김나영입니다. </h2>  
@@ -31,5 +31,5 @@
            /> </div> 
     </div>
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5dbdb,100:ebdbdb&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
