@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5dbdb,100:ebdbdb&height=180&text=Hello%20na0%20world%20!&animation=fadeIn&fontColor=ffffff&fontSize=50" width="100%" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 전 22살 AI전공 대학생 김나영입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 전 23살 AI전공 대학생 김나영입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>백앤드 개발자</li><li>저는 항상 더 나은 내일을 준비하며 성장하려 하는 개발자<li>원하는 목표를 이루기 위해 하루하루 열심히 나아가는 개발자</li></div> 
     </div>
     <div style="text-align: left;">
