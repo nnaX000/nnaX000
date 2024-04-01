@@ -25,12 +25,12 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <div style="text-align: left;"> 
+    <div style="text-align: center;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=nnaX000&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnaX000&layout=compact&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-<div align="right">
+<div align="center">
     <a href="https://solved.ac/kny200208">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kny200208" />
     </a>
