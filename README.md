@@ -27,10 +27,8 @@
     </div>
 <div style="text-align: center;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div style="text-align: center;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div style="display: inline-block; text-align: left;"> <!-- This div centers the content and aligns text to the left -->
-        <img src="https://github-readme-stats.vercel.app/api?username=nnaX000&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000" style="width: 500px; height: 205px; display: inline-block; margin-right: 20px;" /> <!-- GitHub Stats Image -->
+        <img src="https://github-readme-stats.vercel.app/api?username=nnaX000&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000" style="width: 500px; height: 205px; display: inline-block; margin-right: 10px;" /> <!-- GitHub Stats Image -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnaX000&layout=compact&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000" style="width: 505px; height: 205px; display: inline-block;" /> <!-- Most Used Languages Image -->
     </div>
     <div align="left" style="margin-top: 20px; margin-left: 15px; display: inline-block; width: 100%;"> <!-- This div aligns the Solved.ac badge to the left with a margin -->
