@@ -37,7 +37,7 @@
 </div>
 <div align="left">
     <a href="https://solved.ac/kny200208">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kny200208",margin-left: 5px; />
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kny200208",margin-left: 15px; />
     </a>
 </div>
 <div align= "center">
