@@ -27,13 +27,13 @@
     </div>
 <div style="text-align: center;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div style="display: inline-block; text-align: left;"> <!-- This div centers the content and aligns text to the left -->
-        <img src="https://github-readme-stats.vercel.app/api?username=nnaX000&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000" style="width: 500px; height: 205px; display: inline-block; margin-right: 10px;" /> <!-- GitHub Stats Image -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnaX000&layout=compact&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000" style="width: 505px; height: 205px; display: inline-block;" /> <!-- Most Used Languages Image -->
+    <div style="display: inline-block; text-align: center;"> <!-- Adjusted for center alignment -->
+        <img src="https://github-readme-stats.vercel.app/api?username=nnaX000&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000" style="width: 500px; height: 205px; display: inline-block; vertical-align: top; margin-right: 10px;" /> <!-- GitHub Stats Image -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnaX000&layout=compact&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000" style="width: 505px; height: 205px; display: inline-block; vertical-align: top;" /> <!-- Most Used Languages Image -->
     </div>
-    <div align="left" style="margin-top: 20px; margin-left: 15px; display: inline-block; width: 100%;"> <!-- This div aligns the Solved.ac badge to the left with a margin -->
+    <div style="display: inline-block; width: 100%; margin-top: 20px;"> <!-- Adjusted for center alignment -->
         <a href="https://solved.ac/kny200208">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kny200208"/>
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kny200208" style="margin-left: auto; margin-right: auto; display: block;"/> <!-- Adjusted for center alignment -->
         </a>
     </div>
 </div>
