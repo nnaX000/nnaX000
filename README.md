@@ -31,7 +31,6 @@
            /> </div> 
     </div>
     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kny200208)](https://solved.ac/kny200208/)
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5dbdb,100:ebdbdb&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
