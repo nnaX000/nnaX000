@@ -30,7 +30,7 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnaX000&layout=compact&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-<div align="center">
+<div align="right">
     <a href="https://solved.ac/kny200208">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kny200208" />
     </a>
