@@ -25,14 +25,14 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <div style="text-align: center;"> 
+<div style="text-align: center;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div style="text-align: center;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div style="display: inline-block; text-align: left;"> <!-- Changed to inline-block and centralized alignment -->
-        <img src="https://github-readme-stats.vercel.app/api?username=nnaX000&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000" style="width: 400px; height: 195px; display: inline-block;" /> <!-- Adjusted sizes -->
+    <div style="display: inline-block; text-align: left;"> <!-- Keep the container centered and content aligned to the left -->
+        <img src="https://github-readme-stats.vercel.app/api?username=nnaX000&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000" style="width: 500px; height: 205px; display: inline-block; margin-right: 20px;" /> <!-- Added margin to the right -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnaX000&layout=compact&bg_color=180,f9ebef,00000000&title_color=000000&text_color=000000" style="width: 400px; height: 195px; display: inline-block;" /> <!-- Adjusted sizes -->
     </div> 
+</div>
+
 </div>
 </div>
 <div align="center">
