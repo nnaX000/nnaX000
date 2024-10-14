@@ -1,14 +1,14 @@
 <!-- 물결 애니메이션이 적용된 이름과 소개 (단색 FFB0CB) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB0CB&height=300&section=header&text=Welcome%20to%20Nayoung%20Hub👻&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&font=Courier" alt="김나영의 물결 애니메이션 소개">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC9CB&height=300&section=header&text=Welcome%20to%20Nayoung%20Hub👻&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&font=Courier" alt="김나영의 물결 애니메이션 소개">
 </p>
 
 
 
 ---
 
-<!-- 사진과 About Me 섹션 배치 -->
-<table align="center" style="border: 2px solid #e0e0e0; border-radius: 10px; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+<!-- 사진과 About Me 섹션 배치 (테두리 제거) -->
+<table align="center" style="border: none; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
   <tr>
     <!-- 프로필 사진 -->
     <td style="padding: 10px;">
