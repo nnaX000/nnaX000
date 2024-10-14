@@ -1,21 +1,25 @@
-<!-- 이름 및 소개 -->
-<h1 align="center">안녕하세요! 저는 김나영입니다 👋</h1>
+<!-- 물결 애니메이션이 적용된 이름과 소개 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFD700&height=300&section=header&text=안녕하세요!%20저는%20김나영입니다👋&fontSize=45&fontAlignY=40&animation=twinkling" alt="김나영의 물결 애니메이션 소개">
+</p>
 
 ---
 
-<!-- 사진과 About Me 섹션 배치 (가운데 정렬 + 비율 유지) -->
-<table align="center">
+<!-- 사진과 About Me 섹션 배치 -->
+<table align="center" style="border: 2px solid #e0e0e0; border-radius: 10px; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
   <tr>
     <!-- 프로필 사진 -->
-    <td>
+    <td style="padding: 10px;">
       <img src="https://i.imgur.com/bSd8IFW.jpeg" width="250" style="border-radius: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
     </td>
     <!-- About Me 소개 -->
-    <td style="text-align: left; padding-left: 20px;">
+    <td style="text-align: left; padding: 20px;">
       <h3>👨‍💻 About Me</h3>
-      <ul>
+      <ul style="list-style: none; padding-left: 0;">
         <li>🎓 <strong>Sungshin University</strong> student (Major - AI)</li>
         <li>🔧 Backend Developer</li>
+        <li>💼 Passionate about AI, Backend development, and cloud technologies</li>
+        <li>🌱 Constantly learning and expanding my skillset</li>
       </ul>
     </td>
   </tr>
