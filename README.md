@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&text=안녕하세요!+개발자+김나영입니다👻&fontSize=40&fontAlign=50&animation=twinkling" />
-</p>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4A90E2; font-size: 48px;">
+  안녕하세요! 개발자 김나영입니다 👻
+</h1>
+
 
 
 
