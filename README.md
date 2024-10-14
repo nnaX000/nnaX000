@@ -8,7 +8,7 @@
 ---
 
 
-<!-- Flexbox를 이용한 사진과 About Me 배치 (찌그러짐 수정) -->
+<!-- 프로필 사진 왼쪽에 크게, About Me 오른쪽에 배치 (확실한 원형) -->
 <div style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 40px; padding: 20px; background-color: #FFB0CB; border-radius: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
   <!-- 프로필 사진 -->
   <div style="flex-shrink: 0; margin-right: 30px;">
@@ -16,7 +16,7 @@
   </div>
 
   <!-- About Me 정보 -->
-  <div style="flex: 1; color: white; font-family: 'Courier New', Courier, monospace; line-height: 1.6;">
+  <div style="flex: 1; color: black; font-family: 'Courier New', Courier, monospace; line-height: 1.6;">
     <h3 style="margin-bottom: 10px;">👨‍💻 About Me</h3>
     <ul style="list-style: none; padding-left: 0; font-size: 1.2rem;">
       <li>🎓 <strong>Sungshin University</strong> student (Major - AI)</li>
@@ -24,6 +24,7 @@
     </ul>
   </div>
 </div>
+
 
 
 
