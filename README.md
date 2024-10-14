@@ -1,15 +1,6 @@
 <h1 align="center">
-  <a href="#" style="text-decoration: none; color: #FF69B4; font-family: 'Courier New', Courier, monospace; font-size: 40px;">
-    <span style="animation: fadeIn 3s ease-in-out;">안녕하세요! 개발자 김나영입니다 👻</span>
-  </a>
+  <img src="https://img.shields.io/badge/안녕하세요!-개발자%20김나영입니다👻-blue?style=for-the-badge&logo=github" alt="Hello from gimnayeong" />
 </h1>
-
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-</style>
 
 
 ---
