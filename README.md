@@ -1,7 +1,8 @@
 <!-- 프로필 사진 중앙 배치 -->
 <p align="center">
-  <img src="https://imgur.com/bSd8IFW" width="200" height="200" style="border-radius: 50%;" alt="Profile Image">
+  <img src="https://i.imgur.com/bSd8IFW.jpeg" width="200" height="200" style="border-radius: 50%;" alt="Profile Image">
 </p>
+
 
 <!-- 이름 및 소개 -->
 <h1 align="center">안녕하세요! 저는 김나영입니다 👋</h1>
