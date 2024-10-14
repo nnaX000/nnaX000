@@ -8,15 +8,15 @@
 ---
 
 
-<!-- Flexbox를 이용한 사진과 About Me 배치 (더 깔끔한 디자인) -->
-<div style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 40px; background-color: #FFB0CB; padding: 20px; border-radius: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+<!-- 프로필 사진 왼쪽에 크게, About Me 오른쪽에 배치 -->
+<div style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 40px; padding: 20px; background-color: #FFB0CB; border-radius: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
   <!-- 프로필 사진 -->
-  <div style="flex: 0 0 auto; margin-right: 30px;">
-    <img src="https://i.imgur.com/bSd8IFW.jpeg" style="width: 200px; height: 200px; border-radius: 50%; border: 5px solid white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
+  <div style="flex-shrink: 0; margin-right: 30px;">
+    <img src="https://i.imgur.com/bSd8IFW.jpeg" style="width: 250px; height: 250px; border-radius: 50%; border: 5px solid white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
   </div>
-  
+
   <!-- About Me 정보 -->
-  <div style="flex: 1; color: white; font-family: 'Courier New', Courier, monospace;">
+  <div style="flex: 1; color: white; font-family: 'Courier New', Courier, monospace; line-height: 1.6;">
     <h3 style="margin-bottom: 10px;">👨‍💻 About Me</h3>
     <ul style="list-style: none; padding-left: 0; font-size: 1.2rem;">
       <li>🎓 <strong>Sungshin University</strong> student (Major - AI)</li>
