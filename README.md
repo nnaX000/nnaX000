@@ -1,5 +1,9 @@
-<!-- 깃허브 프로필 README -->
-<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FF69B4&height=300&section=header&text=Hello!+I'm+gimnayeong!&fontSize=70&fontAlignY=40&desc=Backend+Developer&descSize=25&descAlignY=65" />
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="header gif">
+</p>
+
+<h1 align="center">Hello, I'm gimnayeong 👋</h1>
+
 
 <p align="center">
   <a href="https://github.com/gimnayeong">
