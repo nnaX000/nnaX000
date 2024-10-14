@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Sungshin University student (Major - AI)
-- 🔧 Backend Developer (Django, Node.js, etc.)
+- 🔧 Backend Developer
 ---
 
 ### 🏅 Baekjoon Tier
@@ -41,7 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/FFmpeg_Logo_new.svg" alt="FFmpeg" width="50" height="50"/>
 </p>
 
 
