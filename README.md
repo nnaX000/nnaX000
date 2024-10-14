@@ -2,7 +2,10 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="header gif">
 </p>
 
-<h1 align="center">Hello, I'm gimnayeong 👋</h1>
+<h1 align="center">
+  🎯 kimnayeong, chasing perfection in every line of code! 🎯
+</h1>
+
 
 
 <p align="center">
@@ -15,19 +18,15 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Hanshin University student
+- 🎓 Sungshin University student (Major - AI)
 - 🔧 Backend Developer (Django, Node.js, etc.)
-- 💻 Currently working on real-time video/audio streaming and AI services
-- 🏆 Achievements: AI competition winner, Hackathon top 3
-- 🌱 Exploring more on AI music generation and video optimization
-
 ---
 
 ### 🏅 Baekjoon Tier
 
 <p align="center">
   <a href="https://solved.ac/profile/your_baekjoon_id">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=your_baekjoon_id" alt="Baekjoon solved.ac Profile">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=20211307@sungshin.ac.kr" alt="Baekjoon solved.ac Profile">
   </a>
 </p>
 
@@ -60,7 +59,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kny200208@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/%EB%82%98%EC%98%81-%EA%B9%80-2a7335290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
