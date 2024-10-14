@@ -1,15 +1,16 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4A90E2; font-size: 48px;">
-  안녕하세요! 개발자 김나영입니다 👻
+<h1 align="center">
+  <a href="#" style="text-decoration: none; color: #FF69B4; font-family: 'Courier New', Courier, monospace; font-size: 40px;">
+    <span style="animation: fadeIn 3s ease-in-out;">안녕하세요! 개발자 김나영입니다 👻</span>
+  </a>
 </h1>
 
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>
 
-
-
-<p align="center">
-  <a href="https://github.com/gimnayeong">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Backend+Developer;Baekjoon+Gold+Tier;AI+and+Streaming+Enthusiast;Eager+to+Learn+and+Optimize!" alt="Typing SVG">
-  </a>
-</p>
 
 ---
 
