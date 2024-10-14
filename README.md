@@ -8,8 +8,8 @@
 ---
 
 
-<!-- 프로필 사진 왼쪽에 크게, About Me 오른쪽에 배치 (확실한 원형) -->
-<div style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 40px; padding: 20px; background-color: #FFB0CB; border-radius: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+<!-- 프로필 사진 중앙 정렬, About Me 오른쪽에 배치 (확실한 원형, 중앙 정렬 적용) -->
+<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 40px; padding: 20px; background-color: #FFB0CB; border-radius: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
   <!-- 프로필 사진 -->
   <div style="flex-shrink: 0; margin-right: 30px;">
     <img src="https://i.imgur.com/bSd8IFW.jpeg" style="width: 240px; height: 300px; object-fit: cover; border-radius: 50%; border: 5px solid white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
@@ -24,7 +24,6 @@
     </ul>
   </div>
 </div>
-
 
 
 
