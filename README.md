@@ -3,21 +3,19 @@
 
 ---
 
-<!-- 사진과 About Me 섹션 배치 -->
-<table>
+<!-- 사진과 About Me 섹션 배치 (가운데 정렬 + 비율 유지) -->
+<table align="center">
   <tr>
     <!-- 프로필 사진 -->
     <td>
-      <img src="https://i.imgur.com/bSd8IFW.jpeg" width="250" height="250" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
+      <img src="https://i.imgur.com/bSd8IFW.jpeg" width="250" style="border-radius: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
     </td>
     <!-- About Me 소개 -->
-    <td>
+    <td style="text-align: left; padding-left: 20px;">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🎓 Sungshin University student (Major - AI)</li>
+        <li>🎓 <strong>Sungshin University</strong> student (Major - AI)</li>
         <li>🔧 Backend Developer</li>
-        <li>💼 Passionate about AI, Backend development, and cloud technologies</li>
-        <li>🌱 Constantly learning and expanding my skillset</li>
       </ul>
     </td>
   </tr>
