@@ -8,10 +8,10 @@
 ---
 
 <!-- Flexbox를 이용한 사진과 About Me 배치 -->
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <!-- 프로필 사진 -->
   <div style="flex: 1; text-align: center;">
-    <img src="https://i.imgur.com/bSd8IFW.jpeg" width="200" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
+    <img src="https://i.imgur.com/bSd8IFW.jpeg" width="200" height="200" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
   </div>
   
   <!-- About Me 정보 -->
