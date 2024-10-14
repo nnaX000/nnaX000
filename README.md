@@ -7,23 +7,23 @@
 
 ---
 
-<!-- 사진과 About Me 섹션 배치 (테두리 제거) -->
-<table align="center" style="border: none; padding: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
-  <tr>
-    <!-- 프로필 사진 -->
-    <td style="padding: 10px;">
-      <img src="https://i.imgur.com/bSd8IFW.jpeg" width="250" style="border-radius: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
-    </td>
-    <!-- About Me 소개 -->
-    <td style="text-align: left; padding: 20px;">
-      <h3>👨‍💻 About Me</h3>
-      <ul style="list-style: none; padding-left: 0;">
-        <li>🎓 <strong>Sungshin University</strong> student (Major - AI)</li>
-        <li>🔧 Backend Developer</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<!-- Flexbox를 이용한 사진과 About Me 배치 -->
+<div style="display: flex; align-items: center;">
+  <!-- 프로필 사진 -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://i.imgur.com/bSd8IFW.jpeg" width="200" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
+  </div>
+  
+  <!-- About Me 정보 -->
+  <div style="flex: 2; padding-left: 20px;">
+    <h3>👨‍💻 About Me</h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li>🎓 <strong>Sungshin University</strong> student (Major - AI)</li>
+      <li>🔧 Backend Developer</li>
+    </ul>
+  </div>
+</div>
+
 
 ---
 
