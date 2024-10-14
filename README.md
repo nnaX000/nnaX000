@@ -8,11 +8,11 @@
 ---
 
 
-<!-- 프로필 사진 왼쪽에 크게, About Me 오른쪽에 배치 -->
+<!-- Flexbox를 이용한 사진과 About Me 배치 (찌그러짐 수정) -->
 <div style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 40px; padding: 20px; background-color: #FFB0CB; border-radius: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
   <!-- 프로필 사진 -->
   <div style="flex-shrink: 0; margin-right: 30px;">
-    <img src="https://i.imgur.com/bSd8IFW.jpeg" style="width: 250px; height: 250px; border-radius: 50%; border: 5px solid white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
+    <img src="https://i.imgur.com/bSd8IFW.jpeg" style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; border: 5px solid white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
   </div>
 
   <!-- About Me 정보 -->
@@ -24,6 +24,7 @@
     </ul>
   </div>
 </div>
+
 
 
 ---
