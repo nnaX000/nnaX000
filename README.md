@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC9CB&height=300&section=header&text=Welcome%20to%20Nayoung%20Hub👻&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&font=Courier" alt="김나영의 물결 애니메이션 소개">
 </p>
 
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/nnaX000"
@@ -10,8 +11,6 @@
   height="300"
 />
 </a>
-
-
 
 ---
 
