@@ -5,11 +5,7 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/nnaX000"
-  width="600"
-  height="300"
-/>
+  <img src="https://render.gitanimals.org/farms/nnaX000"/>
 </a>
 
 ---
