@@ -1,6 +1,6 @@
 <!-- 물결 애니메이션이 적용된 이름과 소개 (단색 FFB0CB) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC9CB&height=300&section=header&text=Welcome%20to%20Nayoung%20Hub👻&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&font=Courier" alt="김나영의 물결 애니메이션 소개">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC9CB&height=300&section=header&text=Welcome%20to%20Nayoung%20Hub&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&font=Courier" alt="김나영의 물결 애니메이션 소개">
 </p>
 
 
