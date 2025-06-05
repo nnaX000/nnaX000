@@ -1,9 +1,3 @@
-<!-- 물결 애니메이션이 적용된 이름과 소개 (단색 FFB0CB) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC9CB&height=300&section=header&text=Welcome%20to%20Nayoung%20Hub&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&font=Courier" alt="김나영의 물결 애니메이션 소개">
-</p>
-
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/nnaX000"
@@ -14,8 +8,6 @@
 
 ---
 
-
-<!-- 프로필 사진 중앙 정렬, About Me 오른쪽에 배치 (확실한 원형, 중앙 정렬 적용) -->
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 40px; padding: 20px; background-color: #FFB0CB; border-radius: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
   <!-- 프로필 사진 -->
   <div style="flex-shrink: 0; margin-right: 30px;">
