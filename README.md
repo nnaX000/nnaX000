@@ -1,17 +1,12 @@
 <div align="center">
-  <h1>🙌 Hi there 🙌</h1>
-</div>
-
-
-<div align="center">
-  <!-- 프로필 사진 -->
+  <h1 style="font-size: 28px; margin: 0; padding: 0; border: none;">👨‍💻 About Me</h1>
   <div style="flex-shrink: 0; margin-right: 30px;">
     <img src="https://i.imgur.com/bSd8IFW.jpeg" style="width: 240px; height: 300px; object-fit: cover; border-radius: 50%; border: 5px solid white; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" alt="Profile Image">
   </div>
 
-  <!-- About Me 정보 -->
+  <br>
+  
   <div style="flex: 1; color: black; font-family: 'Courier New', Courier, monospace; line-height: 1.6;">
-    <h3 style="margin-bottom: 10px;">👨‍💻 About Me</h3>
     <ul style="list-style: none; padding-left: 0; font-size: 1.2rem;">
       🎓 <strong>Sungshin University</strong> student (Major - AI)  
       <br>
@@ -22,12 +17,12 @@
 </div>
 
 
----
+<br>
 
 <div align="center">
-  <h3 style="margin-bottom: 10px;">
+  <h1 style="margin-bottom: 10px;">
    🛠️ Tech Stack
-  </h3>
+  </h1>
 
   
   **Backend Framework**  
@@ -83,11 +78,12 @@
 ---
 -->
 
----
+<br>
+
 <div align="center">
-  <h3 style="margin-bottom: 10px;">
+  <h1 style="margin-bottom: 10px;">
   📊 GitHub Stats
-  </h3>
+  </h1>
 </div>
 
 <p align="center">
@@ -98,11 +94,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnaX000&theme=radical" alt="GitHub Streak Stats">
 </p>
 
----
+<br>
+
 <div align="center">
-  <h3 style="margin-bottom: 10px;">
+  <h1 style="margin-bottom: 10px;">
   🌐 Connect with Me
-  </h3>
+  </h1>
 </div>
 
 <p align="center">
