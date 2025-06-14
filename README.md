@@ -1,12 +1,7 @@
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/nnaX000"
-  width="600"
-  height="300"
-/>
-</a>
+<div align="center">
+  <h1>🙌 Hi there 🙌</h1>
+</div>
 
----
 
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 40px; padding: 20px; background-color: #FFB0CB; border-radius: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
   <!-- 프로필 사진 -->
@@ -25,9 +20,20 @@
 </div>
 
 
-
 ---
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/nnaX000"
+  width="600"
+  height="300"
+/>
+</a>
+
+
+
+---
+<!--!
 ### 🏅 Baekjoon Tier
 
 <p align="center">
@@ -37,6 +43,7 @@
 </p>
 
 ---
+-->
 
 ### 🛠️ Tech Stack
 
