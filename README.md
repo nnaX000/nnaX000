@@ -25,16 +25,16 @@
 
 | 진행 기간            | 프로젝트                              | 사용 스택                                             | 맡은 역할          |
 |----------------------|-----------------------------------------------|----------------------------------------------------------|---------------------|
-| 2025.03              | SSWU 멋쟁이사자처럼 공식 홈페이지             | Spring Boot, EC2, Docker, GitHub Actions                | BE                  |
-| 2025.02              | 냉털쿡 - 멋쟁이사자처럼 운영진톤              | Spring Boot, EC2, Docker, GitHub Actions                | BE                  |
+| 2025.03              | SSWU 멋쟁이사자처럼 공식 홈페이지             | Spring Boot, MySQL, EC2, Docker, GitHub Actions                | BE                  |
+| 2025.02              | 냉털쿡 - 멋쟁이사자처럼 운영진톤              | Spring Boot, MySQL, EC2, Docker, GitHub Actions                | BE                  |
 | 2024.12 ~ 2025.02    | 모임                                          | Next.js, S3, Docker, EC2, GitHub Actions                 | Front-end Lead      |
-| 2024.12              | 펀잇 - 멋쟁이사자처럼 데모데이                | Spring Boot, EC2                                         | BE                  |
-| 2024.09              | 멋쟁이사자처럼 연합네트워킹                   | Django MTV                                               | BE                  |
-| 2024.08              | 드림캐쳐 - 멋쟁이사자처럼 중앙해커톤         | Django DRF, EC2                                          | BE                  |
-| 2024.07              | 디벨로우 - 멋쟁이사자처럼 여기톤              | Django MTV                                               | BE                  |
-| 2024.03 ~ 2024.10    | AI 기반 실시간 유해 물질 및 얼굴 모자이크 방송 | Flutter, Node.js, EC2, Docker, FastAPI                  | PL, FE, BE          |
-| 2024.03 ~ 2024.06    | 멋쟁이사자처럼 장고 토이 프로젝트             | HTML, JS, CSS, Django MTV                                | BE                  |
-| 2024.03 ~ 2024.08    | AI 기반 드럼 악보 채보 시스템                | HTML, JS, CSS, Django MTV                                | FE, BE              |
+| 2024.12              | 펀잇 - 멋쟁이사자처럼 데모데이                | Spring Boot, MySQL, EC2                                         | BE                  |
+| 2024.09              | 멋쟁이사자처럼 연합네트워킹                   | Django MTV, SQLITE                                              | BE                  |
+| 2024.08              | 드림캐쳐 - 멋쟁이사자처럼 중앙해커톤         | Django DRF, EC2, SQLITE                                          | BE                  |
+| 2024.07              | 디벨로우 - 멋쟁이사자처럼 여기톤              | Django MTV, SQLITE                                               | BE                  |
+| 2024.03 ~ 2024.10    | AI 기반 실시간 유해 물질 및 얼굴 모자이크 방송 | Flutter, Node.js, EC2, Docker, FastAPI, MongoDB                  | PL, FE, BE          |
+| 2024.03 ~ 2024.06    | 멋쟁이사자처럼 장고 토이 프로젝트             | HTML, JS, CSS, Django MTV, SQLITE                               | BE                  |
+| 2024.03 ~ 2024.08    | AI 기반 드럼 악보 채보 시스템                | HTML, JS, CSS, Django MTV, SQLITE                                | FE, BE              |
 | 2023.03 ~ 2023.10    | AI 기반 서울 소재 빌라 낙찰가 예측 시스템     | HTML, JS, CSS, Flask                                     | PL, FE, BE          |
 | 2023.03 ~ 2023.10    | AI 기반 질병 진단 시스템                      | HTML, JS, CSS, Flask                                     | PL, FE, BE          |
 
