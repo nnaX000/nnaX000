@@ -25,6 +25,7 @@
 
 | 진행 기간            | 프로젝트                              | 사용 스택                                             | 맡은 역할          |
 |----------------------|-----------------------------------------------|----------------------------------------------------------|---------------------|
+| 2025.10 ~ 2025.11    | 멋쟁이사자처럼 4호선톤 - CLUX                 | Spring Boot, MySQL, EC2, Docker, GitHub Actions          | BE                  |
 | 2025.03              | SSWU 멋쟁이사자처럼 공식 홈페이지             | Spring Boot, MySQL, EC2, Docker, GitHub Actions                | BE                  |
 | 2025.02              | 냉털쿡 - 멋쟁이사자처럼 운영진톤              | Spring Boot, MySQL, EC2, Docker, GitHub Actions                | BE                  |
 | 2024.12 ~ 2025.02    | 모임                                          | Next.js, S3, Docker, EC2, GitHub Actions                 | Front-end Lead      |
