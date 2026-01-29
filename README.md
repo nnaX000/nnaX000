@@ -20,7 +20,7 @@
 
 <div align="center">
   <h1 style="margin-bottom: 10px;">
-   🛠️ Tech Stack
+   Tech Stack
   </h1>
 
   
